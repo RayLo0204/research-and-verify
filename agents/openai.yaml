@@ -1,0 +1,7 @@
+interface:
+  display_name: "Research and Verify"
+  short_description: "Explore questions with sources and bounded experiments"
+  default_prompt: "Use $research-and-verify to investigate this question with me: clarify the outcome, look for credible sources and working examples, explain the mechanism, and choose a small useful verification when appropriate."
+
+policy:
+  allow_implicit_invocation: true
